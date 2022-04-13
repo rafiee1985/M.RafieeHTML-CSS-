@@ -1,0 +1,43 @@
+header {
+    text-align: center;
+    background-color: grey;
+    text-shadow:white;
+}
+
+.aa{
+    color: blue;
+    font-size: x-large;
+}
+
+.bb{
+    color: black;
+    font-size: x-large;
+}
+
+.cc{
+    color: red;
+    font-size: x-large;
+    font-family: arial;
+}
+
+.dd{
+    color: white;
+    font-size: 18pt ;
+    font-family: arial;
+}
+
+
+p {
+    background-color: grey;
+    line-height: 40px;
+    font-size: 18pt;
+}
+  
+.left{
+    float:left;
+    margin-right: 10px;
+}
+.clear{
+    clear: both;
+}
+
